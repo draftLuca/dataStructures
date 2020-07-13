@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/linked_list/linked_list.iml" filepath="$PROJECT_DIR$/linked_list/linked_list.iml" />
       <module fileurl="file://$PROJECT_DIR$/queue/queue.iml" filepath="$PROJECT_DIR$/queue/queue.iml" />
       <module fileurl="file://$PROJECT_DIR$/sparse_array/sparse_array.iml" filepath="$PROJECT_DIR$/sparse_array/sparse_array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test/test.iml" filepath="$PROJECT_DIR$/test/test.iml" />
     </modules>
   </component>
 </project>
