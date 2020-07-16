@@ -10,7 +10,9 @@
         <option value="$PROJECT_DIR$/queue/pom.xml" />
         <option value="$PROJECT_DIR$/linked_list/pom.xml" />
         <option value="$PROJECT_DIR$/test/pom.xml" />
+        <option value="$PROJECT_DIR$/stack/pom.xml" />
       </list>
     </option>
   </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
 </project>

@@ -6,16 +6,18 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="test" />
+        <module name="stack" />
         <module name="linked_list" />
         <module name="queue" />
         <module name="sparse_array" />
+        <module name="test" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
+    <bytecodeTargetLevel target="8">
       <module name="linked_list" target="1.5" />
       <module name="queue" target="1.5" />
       <module name="sparse_array" target="1.5" />
+      <module name="stack" target="1.8" />
       <module name="test" target="1.5" />
     </bytecodeTargetLevel>
   </component>
