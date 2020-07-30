@@ -18,7 +18,7 @@
       <module name="queue" target="1.5" />
       <module name="sparse_array" target="1.5" />
       <module name="stack" target="1.8" />
-      <module name="test" target="1.5" />
+      <module name="test" target="8" />
     </bytecodeTargetLevel>
   </component>
 </project>
