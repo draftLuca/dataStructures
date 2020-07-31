@@ -7,18 +7,20 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="stack" />
+        <module name="sort" />
+        <module name="test" />
         <module name="linked_list" />
         <module name="queue" />
         <module name="sparse_array" />
-        <module name="test" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="8">
       <module name="linked_list" target="1.5" />
       <module name="queue" target="1.5" />
+      <module name="sort" target="1.5" />
       <module name="sparse_array" target="1.5" />
       <module name="stack" target="1.8" />
-      <module name="test" target="8" />
+      <module name="test" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>
